@@ -1,0 +1,5 @@
+*** make sure node is installed on the machine
+
+1. create-react-app app_name
+2. cd into app_name
+3. npm i redux react-redux redux-thunk redux-logger react-router-dom axios dotenv

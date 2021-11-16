@@ -1,0 +1,5 @@
+1. npm init / npm init -y
+
+2. npm i express body-parser cors dotenv knex axios pg 
+
+3. optional: nodemon (dev dependancies)
